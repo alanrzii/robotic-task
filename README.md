@@ -4,7 +4,7 @@ A personal showcase of embedded systems programming concepts, demonstrated throu
 
 ## 🚀 Live Demo
 
-[[View the Portfolio Here](https://alanrzii.github.io/robotic-task/)](https://alanrzii.github.io/robotic-task/embedded-systems-portfolio.html) *(Note: This link will work after GitHub Pages finishes deploying)*
+(https://alanrzii.github.io/robotic-task/)](https://alanrzii.github.io/robotic-task/embedded-systems-portfolio.html) *(Note: This link will work after GitHub Pages finishes deploying)*
 
 ## 🛠️ Tasks & Simulations Included
 
